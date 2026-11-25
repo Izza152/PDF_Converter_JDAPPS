@@ -10,7 +10,7 @@ Distribusi resmi installer desktop **JDConverterPDF v1.0.0** (100% Offline PDF, 
 
 | Sistem Operasi | Paket Installer | Ukuran | Link Unduhan Langsung |
 |---|---|---|---|
-| **Windows 10 / 11 (64-bit)** | `JDConverterPDF-Setup-1.0.0.exe` (Inno Setup 6) | ± 178 MB | [Unduh Installer Windows (.exe)](https://github.com/Izza152/PDF_Converter_JDAPPS/releases/latest/download/JDConverterPDF-Setup-1.0.0.exe) |
+| **Windows 10 / 11 (64-bit)** | `JDConverterPDF-Setup-1.0.0.exe` (Inno Setup 6) | ± 175 MB | [Unduh Installer Windows (.exe)](https://github.com/Izza152/PDF_Converter_JDAPPS/releases/latest/download/JDConverterPDF-Setup-1.0.0.exe) |
 | **Ubuntu 22.04 / 24.04 LTS (amd64)** | `jdconverterpdf_1.0.0_amd64.deb` (GUI GTK3 + WebKit2GTK) | ± 160 MB | [Unduh Paket Ubuntu (.deb)](https://github.com/Izza152/PDF_Converter_JDAPPS/releases/latest/download/jdconverterpdf_1.0.0_amd64.deb) |
 
 > Distro Linux lainnya (Fedora `.rpm`, Arch `AUR`, AppImage & Flatpak), macOS, dan Android masih dalam pengembangan.
@@ -51,6 +51,6 @@ jdconverterpdf
 ## Verifikasi Checksum (SHA-256)
 
 ```text
-6D93D9E9469CFB285824B68C3F2D796D939791A6AF5E01056D57D383F2A2DD91  JDConverterPDF-Setup-1.0.0.exe
-CBD7523796349E2E93ADDBE1B8E04CA6536C1CE3A2847649EF95B62070FDA238  jdconverterpdf_1.0.0_amd64.deb
+C9E824B3F2E6B617300B64E62DB291E99D1D71B6EFC35E6AB17772F756AED333  JDConverterPDF-Setup-1.0.0.exe
+8F32902E4F16CEC47090B6AC265F1A22D27014C4D3E770C041C95CD29B599247  jdconverterpdf_1.0.0_amd64.deb
 ```
